@@ -1,0 +1,10 @@
+# DNS-Censor Filter Bypass by WeepingAngel
+# Unblock any kind of site that can be censored
+#Make the Internet Free Again
+@@||nytimes.com^
+@@||1337x.tw^
+@@||thepiratebay.org^
+@@||kinox.to^
+@@||cine.to^
+@@||bs.to^
+@@||aniworld.to^
